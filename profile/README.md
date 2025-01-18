@@ -1,5 +1,5 @@
 # Neko Engineering
-Company building blow minding devices for musicians.
+Company building mind-blowing devices for musicians.
 
 We believe the human touch is a key for creating music. But as well we can't ignore new technologies. This led us to the core principles of the company:
 1. All people should turn their ideas into music and enjoy it
@@ -7,4 +7,4 @@ We believe the human touch is a key for creating music. But as well we can't ign
 3. People creating should live happier lifes
 
 We started in 2014 with mind-blowing WhammyD and WhammyD2 devices. 
-And ready to reveal our new device for new era of guitar playing very soon.
+And ready to reveal our new device for the new era of guitar playing very soon.
